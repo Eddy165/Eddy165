@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-006d-b38592b1021c.gif" width="100%">
-</div>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=FFB81C&center=true&vCenter=true&width=800&lines=EDWIN+MARIO+A;THE+CODE+ARCHITECT;FULL+STACK+ENGINEER;BUILDER+OF+TOMORROW'S+SYSTEMS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=FFB81C&center=true&vCenter=true&width=800&lines=EDWIN+MARIO+A;THE+CODE+ARCHITECT;FULL+STACK+ENGINEER" />
 </h1>
 
 <div align="center">
@@ -53,7 +49,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" height="30" /> THE ARSENAL — WEAPONS OF CODE
 
 <div align="center">
-
+  
 ### 💻 **CORE WEAPONS**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=000000&labelColor=FFB81C)
@@ -76,31 +72,19 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white&color=000000&labelColor=FFB81C)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=000000&labelColor=FFB81C)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=000000&labelColor=FFB81C)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white&color=000000&labelColor=FFB81C)
-![REST APIs](https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white&color=000000&labelColor=FFB81C)
+
 
 ### 🗄️ **VAULT — DATA SYSTEMS**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=000000&labelColor=FFB81C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=000000&labelColor=FFB81C)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=000000&labelColor=FFB81C)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000&color=000000&labelColor=FFB81C)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&color=000000&labelColor=FFB81C)
 
 ### ⛓️ **BLOCKCHAIN & WEB3**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&color=000000&labelColor=FFB81C)
-![Solana](https://img.shields.io/badge/Solana-1E1F25?style=for-the-badge&logo=solana&logoColor=00FFAF&color=000000&labelColor=FFB81C)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-000000?style=for-the-badge&logo=ethereum&logoColor=FFB81C&color=000000&labelColor=FFB81C)
-![Web3.js](https://img.shields.io/badge/Web3.js-F6F800?style=for-the-badge&logo=web3.js&logoColor=000&color=000000&labelColor=FFB81C)
 
-### 🔐 **SECURITY & ENCRYPTION**
-
-![AES-256](https://img.shields.io/badge/AES--256--CBC-00D4FF?style=for-the-badge&logo=lock&logoColor=white&color=000000&labelColor=FFB81C)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFB81C&color=000000&labelColor=FFB81C)
-![bcrypt](https://img.shields.io/badge/bcrypt-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white&color=000000&labelColor=FFB81C)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=oauth&logoColor=white&color=000000&labelColor=FFB81C)
 
 ### 🛠️ **DEVOPS & TOOLS**
 
@@ -121,6 +105,8 @@
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" height="30" /> PROJECT VAULT — ACTIVE OPERATIONS
+
+
 
 <table align="center" width="100%">
 <tr>
