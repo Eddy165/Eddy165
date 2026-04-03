@@ -85,6 +85,12 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&color=000000&labelColor=FFB81C)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-000000?style=for-the-badge&logo=ethereum&logoColor=FFB81C&color=000000&labelColor=FFB81C)
 
+### 🔐 **SECURITY & ENCRYPTION**
+
+![AES-256](https://img.shields.io/badge/AES--256--CBC-00D4FF?style=for-the-badge&logo=lock&logoColor=white&color=000000&labelColor=FFB81C)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFB81C&color=000000&labelColor=FFB81C)
+![bcrypt](https://img.shields.io/badge/bcrypt-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white&color=000000&labelColor=FFB81C)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=oauth&logoColor=white&color=000000&labelColor=FFB81C)
 
 ### 🛠️ **DEVOPS & TOOLS**
 
